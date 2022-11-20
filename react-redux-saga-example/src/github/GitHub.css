@@ -1,0 +1,25 @@
+.container {
+  margin: 5px;
+  padding: 15px;
+  border: 1px solid teal;
+  float: left;
+}
+
+.login {
+  color: blueviolet;
+}
+
+.img-container {
+  float: left;
+}
+
+.img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.data {
+  float: left;
+  margin: 5px;
+  padding: 10px;
+}
